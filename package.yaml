@@ -46,3 +46,5 @@ tests:
     - -with-rtsopts=-N
     dependencies:
     - aoc-v2021
+
+data-files: data/*.txt
